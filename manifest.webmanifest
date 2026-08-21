@@ -1,0 +1,11 @@
+{
+  "name": "محفظتي",
+  "short_name": "محفظتي",
+  "lang": "ar",
+  "dir": "rtl",
+  "display": "standalone",
+  "background_color": "#061821",
+  "theme_color": "#071d27",
+  "start_url": ".",
+  "scope": "."
+}
